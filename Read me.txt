@@ -1,0 +1,7 @@
+--> make diarictory folder for django project 
+--> installed virtualenev
+--> installed django
+--> create project then started
+--> create app pages and started
+--> few changes in the project files setting.py, urls.py, pages apps.py, views.py, urls.py, are performed.
+--> run the project anfd accessing the url finally message page is viewed.
